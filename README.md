@@ -1,3 +1,10 @@
+`https://dlwhittenbury.github.io/imdb-1-introduction-to-the-imdb-dataset-and-our-end-to-end-mysql-database-project.html`
+
+`https://dlwhittenbury.github.io/imdb-2-designing-a-mysql-database-and-performing-etl-for-imdb-dataset-using-python.html`
+
+`https://dlwhittenbury.github.io/imdb-3-building-the-imdb-mysql-database.html`
+
+`https://dlwhittenbury.github.io/imdb-4-querying-the-imdb-mysql-database-and-visualising-its-data.html`
 
 
 # Introduction
